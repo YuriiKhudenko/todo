@@ -1,0 +1,13 @@
+.todo-list .list-group-item {
+    padding: .25rem .75rem;
+}
+.todo-list {
+    max-height: 277px;
+    overflow-y: auto;
+}
+.list-group-item.hide {
+    display: none;
+}
+.list-group-item:first-child {
+    border-top-width: 1px!important;
+}

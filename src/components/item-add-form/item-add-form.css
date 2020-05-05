@@ -1,0 +1,10 @@
+.item-add-form {
+    margin: 1rem auto 0 auto;
+}
+
+.item-add-form .fa-plus {
+    margin-left: .3rem;
+}
+.btn-add {
+    margin-top: 10px;
+}
